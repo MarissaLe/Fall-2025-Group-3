@@ -6,6 +6,6 @@ This project focuses on developing a relational database that represents the ope
 
 ## Data Model
 
-## Data Disctionary 
+## Data Dictionary 
 
 ## Queries
