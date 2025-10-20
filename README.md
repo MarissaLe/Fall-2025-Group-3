@@ -6,6 +6,8 @@ This project focuses on developing a relational database that represents the ope
 
 ## Data Model
 
+<img width="620" height="371" alt="Screenshot 2025-10-20 at 12 32 35 PM" src="https://github.com/user-attachments/assets/944b53bd-30c4-486e-999e-6752a66f22a4" />
+
 ## Data Dictionary 
 
 ## Queries
