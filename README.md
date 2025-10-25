@@ -16,7 +16,8 @@ Finally, our model involves the internal operations of the company. The Departme
 
 When a customer has a problem, they need to contact an employee. An account owner can have many support tickets, and an Employee (like a support agent) can work on many tickets. This many-to-many relationship is handled by the Ticket associative table, which links the account owner who has a problem to the Employee assigned to help them.
 
-<img width="620" height="371" alt="Screenshot 2025-10-20 at 12 32 35 PM" src="https://github.com/user-attachments/assets/944b53bd-30c4-486e-999e-6752a66f22a4" />
+<img width="1249" height="760" alt="DMProject1" src="https://github.com/user-attachments/assets/abcd8903-31f3-4fab-91c8-b7862b45dd61" />
+
 
 ## Data Dictionary 
 
