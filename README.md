@@ -25,6 +25,9 @@ When a customer has a problem, they need to contact an employee. An account owne
 ## Data Dictionary 
 
 ## Queries
+<img width="1168" height="536" alt="image" src="https://github.com/user-attachments/assets/5278b14f-2352-4789-ba89-d59610de4786" />
+
+
 List favorite movie titles for each profile, when it was added, and only for favorites added in 2024
 
 <img width="800" height="242" alt="image" src="https://github.com/user-attachments/assets/944d4788-327c-4254-9eec-b5e8732db597" />
