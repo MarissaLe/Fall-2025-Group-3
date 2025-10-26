@@ -85,7 +85,7 @@ Query 5 provides valuable data for payment methods that helps managers better un
 
 
 
-6.List out the number of titles per genre, and order in ascending alphabetical order
+6. List out the number of titles per genre, and order in ascending alphabetical order
 
 <img width="800" height="199" alt="image" src="https://github.com/user-attachments/assets/2262363c-e74a-4639-ac48-0c46542b15e2" />
 
@@ -123,7 +123,7 @@ This query lets managers track overall performance and workload for the customer
 
 
 
-10.List the customers’ emails who are not paying
+10. List the customers’ emails who are not paying
 
 <img width="800" height="168" alt="image" src="https://github.com/user-attachments/assets/1aa4af79-6d1a-4116-8b4b-8a196eeec7a7" />
 
