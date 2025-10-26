@@ -27,7 +27,7 @@ When a customer has a problem, they need to contact an employee. An account owne
 ## Queries
 List favorite movie titles for each profile, when it was added, and only for favorites added in 2024
 
-
+<img width="800" height="242" alt="image" src="https://github.com/user-attachments/assets/944d4788-327c-4254-9eec-b5e8732db597" />
 
 
 Query 1 allows managers to analyze recent trends in user engagement by seeing which movies were liked by viewers, specifically in 2024. This helps them identify popular content and aim their marketing campaigns towards these highly rated titles. By seeing which movies are favorited and which ones aren’t, the streaming service can more easily decide what type of content to promote more heavily.
@@ -36,12 +36,16 @@ Query 1 allows managers to analyze recent trends in user engagement by seeing wh
 
 List each employee and their supervisor, but only for supervisors in the customer support department
 
+<img width="800" height="172" alt="image" src="https://github.com/user-attachments/assets/f7c22cc3-b2dd-4ba7-b462-7388c17f64b9" />
 
 Query 2 allows management to better understand the reporting structure within specific departments in the company, such as the customer support team used in the query above. This is extremely useful for monitoring an employee’s workloads, as well as ensuring proper supervision from the company’s supervisors. Also, tracking each employee and who they report to can allow the company to plan training and conduct performance reviews within a chosen department.
 
 
+
+
 List the number of tickets each employee has handled for the customer support department
 
+<img width="800" height="168" alt="image" src="https://github.com/user-attachments/assets/2d226149-f1c7-40a4-a025-cc3948c17493" />
 
 
 Query 3 is useful for our streaming service company because it represents employee productivity and their efficiency too. When managers can record and track the number of support tickets each employee resolves, they can better identify top performers who handle user disputes better than employees who may have issues with resolving conflicts in customer service. Higher performers in the department can receive bonuses, incentives, and recognition that boosts their morale and encourage the team to use their practices. For employees with poor records, managers can focus their training efforts on them and give feedback that can allow them to improve their performance. Finally, managers can point out potential issues with workload conflicts and ensure each employee has a sufficient amount of work that doesn’t slow them down nor leaves too much free time for customer support workers.
@@ -59,6 +63,7 @@ Query 3 is useful for our streaming service company because it represents employ
 
 List out the profiles that have no favorites, and the associated account owner email
 
+<img width="800" height="212" alt="image" src="https://github.com/user-attachments/assets/72ef1985-efde-46c3-a728-7e895c7ddba9" />
 
 
 For profiles that don’t have favorite movies or shows in their watch history, we can most likely assume these users are disengaged or don’t understand how to use our features like favoriting that gives a personalized touch to our service. Managers can promote re-engagement campaigns to these profiles specifically. These promotion efforts may include content recommendation that is similar to their previous viewings, free trial offers for premium features like ad-free watching experience. These efforts make sure the personalized features our service provides are being used efficiently rather than offering basic services that our competitors most likely use.
@@ -67,6 +72,7 @@ For profiles that don’t have favorite movies or shows in their watch history, 
 List out the different credit card types used by customers and how many of each are used
 
 
+<img width="800" height="166" alt="image" src="https://github.com/user-attachments/assets/f38bb3c8-270d-4823-9e25-08abcfd474b9" />
 
 
 Query 5 provides valuable data for payment methods that helps managers better understand customer payment preferences, specifically which credit cards are most used among our customers. This is useful for financial forecasting and allows our company to negotiate partnerships with card companies. These partnerships would open our service to multiple perks like subscription bonuses and cash back options for Visa users or MasterCard users for example. This mutual relationship between card companies and our streaming service can put our name out in the market and help us stand out among competitors and attract more potential customers to use our services. Additionally, seeing which payment methods are being underused such as gift card or debit options can help our teams improve these lesser-used payment options.
@@ -78,6 +84,7 @@ Query 5 provides valuable data for payment methods that helps managers better un
 
 List out the number of titles per genre, and order in ascending alphabetical order
 
+<img width="800" height="199" alt="image" src="https://github.com/user-attachments/assets/2262363c-e74a-4639-ac48-0c46542b15e2" />
 
 
 
@@ -86,6 +93,7 @@ Query 6 helps managers assess content library balance. This data shows whether o
 
 List out the profiles that have more watch history than the average account
 
+<img width="800" height="238" alt="image" src="https://github.com/user-attachments/assets/b335e786-adf1-4d17-8b84-7ac6e9bd0c5b" />
 
 
 
@@ -96,6 +104,7 @@ This query identifies users who are more engaged than other users based on the a
 
 List the percent of account owners that have filed a ticket
 
+<img width="800" height="145" alt="image" src="https://github.com/user-attachments/assets/3ac498bd-58b1-4ab9-8add-fcbe5e3c7e72" />
 
 
 Query 8 gives managers a measure of customer support demand by seeing what percentage of users have experienced issues that required customer support. It’s important to track the amount of customers filing support tickets because a large amount can indicate repeating technical issues, confusion on certain features, or simply dissatisfaction. Managers can use this data to address common user issues, track efficiency of product improvements, and other methods that improve customer service support and user experience overall.
@@ -104,6 +113,7 @@ Query 8 gives managers a measure of customer support demand by seeing what perce
 
 List the number of tickets that have been handled in 2025
 
+<img width="800" height="146" alt="image" src="https://github.com/user-attachments/assets/63b307a8-1ed5-4316-824b-e640da898ec0" />
 
 
 This query lets managers track overall performance and workload for the customer service team, specifically in 2025. The data shows how many tickets were actually resolved versus those that weren’t able to be completed for whatever reason. This can be used to measure productivity in the support department, helping managers determine if staffing levels were sufficient in a specific year compared to others. This time-based data analysis is important to assess growth in the user base’s relationship with support demand. Finally, this query gives management a quantitative view of customer service’s performance, helping them plan staffing and budget improvements in the future.
@@ -112,6 +122,7 @@ This query lets managers track overall performance and workload for the customer
 
 List the customers’ emails who are not paying
 
+<img width="800" height="168" alt="image" src="https://github.com/user-attachments/assets/1aa4af79-6d1a-4116-8b4b-8a196eeec7a7" />
 
 
 
