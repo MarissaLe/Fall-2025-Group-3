@@ -2,6 +2,8 @@
 MIST 4610: Dr. Srinivasan -
 Streaming Platform mySQL Project
 
+# Team Members
+
 ## Project Scenario
 This project focuses on developing a relational database that represents the operations of a digital streaming platform. The system is designed to manage subscriber accounts, user profiles, payments, available content, and more. Each subscriber can maintain multiple profiles under one account, allowing for personalized viewing and recommendation features. The database also tracks interactions between users and media, such as watch history, favorites, and content reviews. In addition to user activity, the model incorporates employee and department data to handle administrative tasks, customer support, and service maintenance through ticket tracking. Entities are structured with both straightforward and recursive relationships to accurately reflect real-world dependencies within the platform. By generating realistic sample data and performing analytical queries, this model enables a deeper understanding of user behavior, financial performance, and overall system efficiency within the streaming service.
 
@@ -135,3 +137,5 @@ This query points out customers who have no records of payment history, whether 
 ## Database Information
 
 Name of the database: ns_Group3
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
