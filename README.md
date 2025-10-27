@@ -32,7 +32,6 @@ When a customer has a problem, they need to contact an employee. An account owne
 
 
 ## Data Dictionary 
-
 <img width="417" height="547" alt="image" src="https://github.com/user-attachments/assets/235ed120-012c-4d7c-b1ce-860da386dcdb" />
 
 <img width="417" height="360" alt="image" src="https://github.com/user-attachments/assets/e6f78b21-27a3-4407-9341-58aa94dab2c8" />
@@ -44,8 +43,6 @@ When a customer has a problem, they need to contact an employee. An account owne
 <img width="417" height="470" alt="image" src="https://github.com/user-attachments/assets/c89841aa-7ca4-4dfa-8d55-55bc1f781a93" />
 
 <img width="417" height="514" alt="image" src="https://github.com/user-attachments/assets/a21330b2-e007-4c12-a7e1-aab5662b08f2" />
-
-
 ## Queries
 <img width="1168" height="536" alt="image" src="https://github.com/user-attachments/assets/5278b14f-2352-4789-ba89-d59610de4786" />
 
